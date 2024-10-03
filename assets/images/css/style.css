@@ -1,0 +1,16 @@
+@import url('reset.css');
+
+body {
+    background-color: black;
+}
+h2{
+    font-size: 2rem;
+    color: rgb(51, 170, 218);
+    font-weight: bold;
+    letter-spacing: 4px;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+}
+p{
+    color: wheat;
+}
